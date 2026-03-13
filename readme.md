@@ -12,7 +12,7 @@ Ensure
 ```
 <dependency>
   <groupId>org.apache.tomcat.embed</groupId>
-  <artifactId>tomcat-embed-core</artifactId>
+  <artifactId>tomcat-embed-jasper</artifactId>
   <version>11.0.15</version>
 </dependency>
 
