@@ -17,8 +17,8 @@ Ensure
 </dependency>
 
 <!--
-  tomcat-embed-jasper  
-  tomcat-embed-el
+  tomcat-embed-jasper (JSP compiler/runtime)
+  tomcat-embed-el (EL implementation)
 --> 
 ```
 
@@ -32,8 +32,8 @@ appears before JSTL
 </dependency>
 
 <!--
-  tomcat-embed-jasper
-  jakarta.servlet.jsp.jstl-api
+  jakarta.servlet.jsp.jstl-api (JSTL interfaces)
+  jakarta.el-api (EL interfaces)
 -->
 ```
 
